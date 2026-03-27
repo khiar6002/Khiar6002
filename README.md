@@ -2,7 +2,7 @@
 
 <p>Welcome to my GitHub profile!</br>
 I'm an <b>IT Support Specialist & Cybersecurity Enthusiast</b> from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197574.png" width="13"/> 
+<img src="https://flagcdn.com/w20/sy.png" width="13"/>
 <b>Syria</b></p>
 
 ---
