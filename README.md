@@ -30,6 +30,7 @@ I'm an <b>IT Support Specialist & Cybersecurity Enthusiast</b> from
 |---|---|
 | 🔐 | Cybersecurity Diploma — **Lifelong Learning Center (LLC)** |
 | ✅ | Accredited by **CLT** & **Syrian Virtual University** |
+| 🎓 | Currently studying at **Syrian Virtual University (SVU)** |
 | 🖥️ | **CompTIA A+** Trained |
 | 📡 | Currently studying **CCNA** |
 | 🎯 | Planned: **MCSA** \| **CEH** |
