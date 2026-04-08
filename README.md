@@ -24,6 +24,25 @@ I'm an <b>IT Support Specialist & Cybersecurity Enthusiast</b> from
 
 ---
 
+### 🛠️ Development 
+
+<p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+</p>
+
+---
+
+### 🎨 Design / Creative 
+
+<p>
+<img alt="Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+<img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+</p>
+
+---
+
 ### 📜 Certifications & Education
 
 | 🎓 | Details |
